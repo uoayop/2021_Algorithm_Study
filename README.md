@@ -1,5 +1,5 @@
-# 2021_Python_Algo
-> 2021_파이썬_알고리즘_연습
+# 2021_Algorithm_Study
+> 2021_알고리즘_연습
 
 # Choose Programming Language
 * Java,Python
