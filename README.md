@@ -18,7 +18,7 @@
   * 사이트 폴더- 문제 폴더 - 소스코드 및 풀이방법(선택)
     * ex)```programmers_folder``` -> ```15213_folder``` -> ```15213_malpi.py```,```15213_malpi_solved.md``` 
   * 사이트 폴더 : Algorithm-Site 을 참고하여 다른사람들이 헷갈리지않게 작성할것
-    * ex)```baekjoon```,``programmers```...
+    * ex)```baekjoon```,```programmers```...
   * 문제 폴더 : 숫자 우선, 숫자가없다면 헷갈지이 않는 선에서 영어로 작성 (불가피하다면 한국말로 써도됨)
     * ex)```11234.py```,```train.py```
   * 소스코드 및 풀이방법 : 숫자_아이디.py or 숫자_아이디_풀이.md 으로 작성
@@ -26,7 +26,7 @@
 # How to Commit (가안)
  * Commit Rule은 다음과 같이 행한다.
   * Make Branch : 아이디_사이트_문제번호
-    *ex)```Malpi_Baekjoon_12345
+    *ex)```Malpi_Baekjoon_12345```
   * Commit Message : 자유롭게 하지만 서로간의 불편하지않는 선에서 최대한 간결하고 한눈에 바라볼수있게 작성 
 # How to Study (가안)
 * Study Rule - 일주일에 1~2번씩은 무조건 문제를 풀어보는 시간을 갖도록하고 commit하는것을 원칙으로 하겠음 
